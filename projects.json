@@ -2,6 +2,70 @@
   "version": 1,
   "projects": [
     {
+      "id": "thebiggestpunch",
+      "name": "The Biggest Punch",
+      "description": "I worked primarily independently on an existing codebase, adapting and refactoring the code to align it with the game’s new design, thereby making a significant contribution to its transformation.\n\nI was responsible for developing the majority of the project (over 80%), creating and integrating gameplay and UI, and ensuring consistency across the various components of the system.\n\nI also implemented the localization system, enabling the game to be supported in multiple languages.",
+      "releaseDate": "2026",
+      "engine": "Unity",
+      "mainImage": "TheBiggestPunch/Images/main.jpg",
+      "squareImage": "TheBiggestPunch/Images/square.jpg",
+      "medias": [
+        {
+          "image": "TheBiggestPunch/Images/media_01.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_02.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_03.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_04.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_05.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_06.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_07.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_08.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_09.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_10.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_11.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_12.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_13.jpg"
+        },
+        {
+          "image": "TheBiggestPunch/Images/media_14.jpg"
+        }
+      ],
+      "tags": [
+        "Tag_Unity",
+        "Tag_C#",
+        "Tag_Collaboration"
+      ],
+      "links": [
+        {
+          "platform": "Itch - PC",
+          "url": "https://stealth-company.itch.io/the-biggest-punch"
+        }
+      ]
+    },
+    {
       "id": "backtotheself",
       "name": "Back To The Self",
       "description": "I developed the entire project independently, using the assets provided and handling all technical and integration aspects.\n\nI managed the integration with an external hardware device via Bluetooth, which was responsible for emitting scents synchronised with the experience. To this end, I developed a custom tool in the Unity Editor to define and manage a timeline of olfactory events.\n\nGiven the highly immersive nature of the project, I optimised the experience to prevent freezes and performance drops, focusing in particular on scene transitions, where the user needed to enjoy a smooth, lag-free experience.\n\nI also implemented an anonymous data collection system, linking the results of the questionnaires to Google Forms and Google Sheets for automated analysis.",
@@ -46,6 +110,107 @@
         {
           "platform": "PicoXRStore",
           "url": ""
+        }
+      ]
+    },
+    {
+      "id": "moodytrial",
+      "name": "Moody Trial",
+      "description": "The project was developed for the one-week Global Game Jam held in February 2026.\n\nI was responsible for the full development of the player and combat system, managing input and feedback to ensure a smooth and responsive experience.\n\nI implemented advanced combat mechanics, including knockback and player forward movement, both of which can be configured according to the type of attack.\n\nI designed and developed the character’s abilities, using modular and reusable logic.\n\nI also contributed to the development of the enemy AI, improving its behaviour and functionality.",
+      "releaseDate": "2026",
+      "engine": "Unity",
+      "mainImage": "MoodyTrial/Images/main.jpg",
+      "squareImage": "MoodyTrial/Images/square.jpg",
+      "medias": [
+        {
+          "video": "MoodyTrial/Videos/MoodyTrial Trailer.mp4"
+        },
+        {
+          "image": "MoodyTrial/Images/media_02.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_03.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_04.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_05.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_06.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_07.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_08.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_09.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_10.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_11.jpg"
+        },
+        {
+          "image": "MoodyTrial/Images/media_12.jpg"
+        }
+      ],
+      "tags": [
+        "Tag_Unity",
+        "Tag_C#",
+        "Tag_Jam"
+      ],
+      "links": [
+        {
+          "platform": "GlobalGameJam",
+          "url": "https://globalgamejam.org/games/2026/moody-trial-0"
+        }
+      ]
+    },
+    {
+      "id": "savethedate",
+      "name": "Save The Date",
+      "description": "The project was developed in four days in the GMTK Game Jam held in July 2026.\n\nI was responsible for implementing character movement, developing a slot-based system to manage destinations for all characters.\n\nI also handled the game's UI, implementing all menus and panels, and worked on several managers responsible for the overall game flow.",
+      "releaseDate": "2026",
+      "engine": "Unity",
+      "mainImage": "SaveTheDate/Images/main.jpg",
+      "squareImage": "SaveTheDate/Images/square.jpg",
+      "medias": [
+        {
+          "image": "SaveTheDate/Images/media_01.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_02.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_03.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_04.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_05.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_06.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_07.jpg"
+        }
+      ],
+      "tags": [
+        "Tag_Unity",
+        "Tag_C#",
+        "Tag_Jam"
+      ],
+      "links": [
+        {
+          "platform": "Itch - PC",
+          "url": "https://dee-ay-studio.itch.io/save-the-date"
         }
       ]
     },
@@ -170,128 +335,6 @@
         {
           "platform": "Itch - Web",
           "url": ""
-        }
-      ]
-    },
-    {
-      "id": "moodytrial",
-      "name": "MoodyTrial",
-      "description": "The project was developed for the one-week Global Game Jam held in February 2026.\n\nI was responsible for the full development of the player and combat system, managing input and feedback to ensure a smooth and responsive experience.\n\nI implemented advanced combat mechanics, including knockback and player forward movement, both of which can be configured according to the type of attack.\n\nI designed and developed the character’s abilities, using modular and reusable logic.\n\nI also contributed to the development of the enemy AI, improving its behaviour and functionality.",
-      "releaseDate": "2026",
-      "engine": "Unity",
-      "mainImage": "MoodyTrial/Images/main.jpg",
-      "squareImage": "MoodyTrial/Images/square.jpg",
-      "medias": [
-        {
-          "video": "MoodyTrial/Videos/MoodyTrial Trailer.mp4"
-        },
-        {
-          "image": "MoodyTrial/Images/media_02.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_03.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_04.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_05.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_06.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_07.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_08.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_09.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_10.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_11.jpg"
-        },
-        {
-          "image": "MoodyTrial/Images/media_12.jpg"
-        }
-      ],
-      "tags": [
-        "Tag_Unity",
-        "Tag_C#",
-        "Tag_Jam"
-      ],
-      "links": [
-        {
-          "platform": "GlobalGameJam",
-          "url": "https://globalgamejam.org/games/2026/moody-trial-0"
-        }
-      ]
-    },
-    {
-      "id": "thebiggestpunch",
-      "name": "The Biggest Punch",
-      "description": "I worked primarily independently on an existing codebase, adapting and refactoring the code to align it with the game’s new design, thereby making a significant contribution to its transformation.\n\nI was responsible for developing the majority of the project (over 80%), creating and integrating gameplay and UI, and ensuring consistency across the various components of the system.\n\nI also implemented the localization system, enabling the game to be supported in multiple languages.",
-      "releaseDate": "2026",
-      "engine": "Unity",
-      "mainImage": "TheBiggestPunch/Images/main.jpg",
-      "squareImage": "TheBiggestPunch/Images/square.jpg",
-      "medias": [
-        {
-          "image": "TheBiggestPunch/Images/media_01.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_02.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_03.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_04.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_05.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_06.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_07.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_08.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_09.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_10.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_11.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_12.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_13.jpg"
-        },
-        {
-          "image": "TheBiggestPunch/Images/media_14.jpg"
-        }
-      ],
-      "tags": [
-        "Tag_Unity",
-        "Tag_C#",
-        "Tag_Collaboration"
-      ],
-      "links": [
-        {
-          "platform": "Itch - PC",
-          "url": "https://stealth-company.itch.io/the-biggest-punch"
         }
       ]
     }
