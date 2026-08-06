@@ -114,6 +114,49 @@
       ]
     },
     {
+      "id": "savethedate",
+      "name": "Save The Date",
+      "description": "The project was developed in four days in the GMTK Game Jam held in July 2026.\n\nI was responsible for implementing character movement, developing a slot-based system to manage destinations for all characters.\n\nI also handled the game's UI, implementing all menus and panels, and worked on several managers responsible for the overall game flow.",
+      "releaseDate": "2026",
+      "engine": "Unity",
+      "mainImage": "SaveTheDate/Images/main.jpg",
+      "squareImage": "SaveTheDate/Images/square.jpg",
+      "medias": [
+        {
+          "image": "SaveTheDate/Images/media_01.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_02.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_03.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_04.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_05.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_06.jpg"
+        },
+        {
+          "image": "SaveTheDate/Images/media_07.jpg"
+        }
+      ],
+      "tags": [
+        "Tag_Unity",
+        "Tag_C#",
+        "Tag_Jam"
+      ],
+      "links": [
+        {
+          "platform": "Itch - PC",
+          "url": "https://dee-ay-studio.itch.io/save-the-date"
+        }
+      ]
+    },
+    {
       "id": "moodytrial",
       "name": "Moody Trial",
       "description": "The project was developed for the one-week Global Game Jam held in February 2026.\n\nI was responsible for the full development of the player and combat system, managing input and feedback to ensure a smooth and responsive experience.\n\nI implemented advanced combat mechanics, including knockback and player forward movement, both of which can be configured according to the type of attack.\n\nI designed and developed the character’s abilities, using modular and reusable logic.\n\nI also contributed to the development of the enemy AI, improving its behaviour and functionality.",
@@ -168,49 +211,6 @@
         {
           "platform": "GlobalGameJam",
           "url": "https://globalgamejam.org/games/2026/moody-trial-0"
-        }
-      ]
-    },
-    {
-      "id": "savethedate",
-      "name": "Save The Date",
-      "description": "The project was developed in four days in the GMTK Game Jam held in July 2026.\n\nI was responsible for implementing character movement, developing a slot-based system to manage destinations for all characters.\n\nI also handled the game's UI, implementing all menus and panels, and worked on several managers responsible for the overall game flow.",
-      "releaseDate": "2026",
-      "engine": "Unity",
-      "mainImage": "SaveTheDate/Images/main.jpg",
-      "squareImage": "SaveTheDate/Images/square.jpg",
-      "medias": [
-        {
-          "image": "SaveTheDate/Images/media_01.jpg"
-        },
-        {
-          "image": "SaveTheDate/Images/media_02.jpg"
-        },
-        {
-          "image": "SaveTheDate/Images/media_03.jpg"
-        },
-        {
-          "image": "SaveTheDate/Images/media_04.jpg"
-        },
-        {
-          "image": "SaveTheDate/Images/media_05.jpg"
-        },
-        {
-          "image": "SaveTheDate/Images/media_06.jpg"
-        },
-        {
-          "image": "SaveTheDate/Images/media_07.jpg"
-        }
-      ],
-      "tags": [
-        "Tag_Unity",
-        "Tag_C#",
-        "Tag_Jam"
-      ],
-      "links": [
-        {
-          "platform": "Itch - PC",
-          "url": "https://dee-ay-studio.itch.io/save-the-date"
         }
       ]
     },
